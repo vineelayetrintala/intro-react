@@ -48,9 +48,7 @@ class App extends React.Component {
   render() {
     let tabChoice = <div />;
 
-    /*Uncomment below to render assignments*/
     
-    }*/
 
     /* Change below to render students*/
 
