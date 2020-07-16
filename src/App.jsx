@@ -48,7 +48,15 @@ class App extends React.Component {
   render() {
     let tabChoice = <div />;
 
-    
+    /*Uncomment below to render assignments*/
+   
+          placeholder="Add Assignment..."
+          currList={this.state.assignments}
+          addFunction={this.addAssignment}
+          title="Assignments"
+        />
+      );
+    }*/
 
     /* Change below to render students*/
 
